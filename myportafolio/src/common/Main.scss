@@ -1,0 +1,22 @@
+.carousel {
+    background-color: red;
+    z-index: -1;
+}
+.subtitulo1{
+    margin: 1rem;
+}
+
+.iconos {
+
+    display: grid;
+    gap: 1rem;
+    grid-auto-rows: 15rem;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    align-items: center;
+    .cuadrados {
+        img {
+            width: 150px;
+            height: 150px;
+        }
+    }
+}

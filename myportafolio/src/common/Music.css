@@ -1,0 +1,11 @@
+footer{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+#Music1 {
+    position: fixed;
+    top: 0px;
+}
